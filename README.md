@@ -7,6 +7,12 @@ I'm a 23-year-old developer based in Kenya, and I'm passionate about crafting so
     <li>In my <a href="#" target="_blank">Newsletter</a>, I share my learnings and tips to become a better developer.</li>
   </ul>
 
+📦TOOLBOX
+Frontend Development: React Next.js TypeScript Tailwind Material-UI Framer-Motion
+Version control: Git GitLab Bitbucket
+Backet Development: Nest.js GraphQL Firebase
+Testing: Cypress Playwright Vitest Postman Insomnia
+Others: Storybook Zustand A11y Scrum Confluence JiraS
 
 
 
