@@ -18,6 +18,15 @@ Testing: `Cypress` `Playwright` `Vitest` `Postman Insomnia`
 
 Others: `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `JiraS`
 
+# ✨ Fun Facts
+<ul>
+  <li>One Piece is my favourite anime 🏴‍☠️</li>
+  <li>As a kid, I wanted to be an astronaut</li>
+</ul>
+
+# 📫 Contact
+For a quick response, Message me on  <a href="https://www.linkedin.com/in/alexander-somba-149129215/" target="_blank">LinkedIn</a>
+
 
 
 <!--
