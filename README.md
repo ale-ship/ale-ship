@@ -8,10 +8,14 @@ I'm a 23-year-old developer based in Kenya, and I'm passionate about crafting so
   </ul>
 
 # 📦TOOLBOX
-Frontend Development: React Next.js TypeScript Tailwind Material-UI Framer-Motion
+Frontend Development: 'React' Next.js TypeScript Tailwind Material-UI Framer-Motion
+
 Version control: Git GitLab Bitbucket
+
 Backet Development: Nest.js GraphQL Firebase
+
 Testing: Cypress Playwright Vitest Postman Insomnia
+
 Others: Storybook Zustand A11y Scrum Confluence JiraS
 
 
