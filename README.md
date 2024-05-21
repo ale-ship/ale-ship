@@ -22,6 +22,7 @@ Others: `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `JiraS`
 <ul>
   <li>One Piece is my favourite anime 🏴‍☠️</li>
   <li>As a kid, I wanted to be an astronaut</li>
+  <li>I love using Linux more than Windows</li>
 </ul>
 
 # 📫 Contact
