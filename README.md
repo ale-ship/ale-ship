@@ -2,7 +2,7 @@
 I'm a 23-year-old developer based in Kenya, and I'm passionate about crafting softwares and web apps.
 
   <ul>
-    <li>Check out my <a href="#" target="_blank">website</a> to learn more about me.</li>
+    <li>Check out my <a href="https://alexander-portfolio-7e48f.web.app/" target="_blank">website</a> to learn more about me.</li>
     <li>Explore my <a href="#" target="_blank">blog</a> where I share insights and learnings.</li>
     <li>In my <a href="#" target="_blank">Newsletter</a>, I share my learnings and tips to become a better developer.</li>
   </ul>
