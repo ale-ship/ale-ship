@@ -1,6 +1,6 @@
 # Hey, I'm Alexander Somba 👋🏻
 
-I'm a cybersecurity enthusiast based in **Nairobi, Kenya 🇰🇪**, passionate about protecting systems, finding vulnerabilities, and building secure software.
+I'm a cybersecurity student/enthusiast based in **Nairobi, Kenya 🇰🇪**, passionate about protecting systems, finding vulnerabilities, and building secure software.
 
 ---
 
