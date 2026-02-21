@@ -29,7 +29,6 @@ I'm a cybersecurity student/enthusiast based in **Nairobi, Kenya 🇰🇪**, pas
 
 ## ✨ Fun Facts
 
-- 🏴‍☠️ One Piece is my favourite anime
 - 🚀 As a kid, I wanted to be an astronaut
 - 🐧 I will always choose Linux over Windows
 
