@@ -29,7 +29,7 @@ I'm a cybersecurity student/enthusiast based in **Nairobi, Kenya 🇰🇪**, pas
 
 ## ✨ Fun Facts
 
-- 🚀 As a kid, I wanted to be an astronaut
+- 🌌 As a kid, I wanted to be an astronomer
 - 🐧 I will always choose Linux over Windows
 
 ---
